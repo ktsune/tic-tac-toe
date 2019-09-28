@@ -1,0 +1,10 @@
+require 'simplecov'
+SimpleCov.start
+require 'pry'
+require 'minitest/autorun'
+require 'minitest/pride'
+require 'minitest/mock'
+require 'mocha/minitest'
+# require './lib/board'
+# require './lib/player'
+require './lib/tic_tac_toe'
