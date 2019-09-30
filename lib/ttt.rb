@@ -1,6 +1,3 @@
-# require './lib/player'
-# require './lib/board'
-
 class TicTacToe
 
   def initialize
